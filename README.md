@@ -1,4 +1,4 @@
-<img src="images/lambdai_logo.png" width="900" height="200">
+<img src="images/lambdai_logo.png" width="900" height="450">
 
 # LAMBDA-i SPACE
 
